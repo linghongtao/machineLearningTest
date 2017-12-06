@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="machineLearningTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/machineLearningTest_jar</output-path>
+    <root id="root">
+      <element id="archive" name="machineLearningTest.jar">
+        <element id="module-output" name="machineLearningTest" />
+      </element>
+    </root>
+  </artifact>
+</component>

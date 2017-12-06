@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Class-Path: minlog-1.3.0.jar scala-library-2.11.8.jar metrics-graphite
+ -3.1.2.jar commons-beanutils-1.7.0.jar commons-codec-1.3.jar parquet-
+ format-2.3.0-incubating.jar hadoop-yarn-common-2.2.0.jar shapeless_2.
+ 11-2.0.0.jar spark-network-shuffle_2.11-2.1.1.jar jul-to-slf4j-1.7.16
+ .jar commons-lang-2.5.jar scala-xml_2.11-1.0.1.jar guava-14.0.1.jar l
+ eveldbjni-all-1.8.jar hadoop-mapreduce-client-common-2.2.0.jar netty-
+ all-4.0.42.Final.jar jedis-2.9.0.jar parquet-encoding-1.8.1.jar jerse
+ y-guava-2.22.2.jar jersey-container-servlet-core-2.22.2.jar hk2-utils
+ -2.4.0-b34.jar metrics-jvm-3.1.2.jar scala-parser-combinators_2.11-1.
+ 0.4.jar scala-xml_2.11-1.0.4.jar scala-reflect.jar scala-swing_2.11-1
+ .0.2.jar scala-library.jar scala-actors-migration_2.11-1.1.0.jar scal
+ a-actors-2.11.0.jar avro-1.7.7.jar hadoop-client-2.2.0.jar metrics-co
+ re-3.1.2.jar metrics-json-3.1.2.jar py4j-0.10.4.jar unused-1.0.0.jar 
+ spark-tags_2.11-2.1.1.jar aopalliance-repackaged-2.4.0-b34.jar curato
+ r-recipes-2.4.0.jar hk2-locator-2.4.0-b34.jar opencsv-2.3.jar chill-j
+ ava-0.8.0.jar pmml-schema-1.2.15.jar jackson-core-2.6.5.jar hadoop-ya
+ rn-client-2.2.0.jar guice-3.0.jar jcl-over-slf4j-1.7.16.jar slf4j-api
+ -1.7.16.jar paranamer-2.6.jar jackson-mapper-asl-1.9.13.jar jackson-c
+ ore-asl-1.9.13.jar commons-compiler-3.0.0.jar javax.inject-2.4.0-b34.
+ jar avro-ipc-1.7.7-tests.jar spark-mllib-local_2.11-2.1.1.jar jersey-
+ client-2.22.2.jar parquet-hadoop-1.8.1.jar scala-reflect-2.11.7.jar c
+ ommons-collections-3.2.1.jar hk2-api-2.4.0-b34.jar commons-net-2.2.ja
+ r hadoop-yarn-api-2.2.0.jar hadoop-hdfs-2.2.0.jar javassist-3.18.1-GA
+ .jar jackson-annotations-2.6.5.jar scala-parser-combinators_2.11-1.0.
+ 1.jar javax.inject-1.jar spire_2.11-0.7.4.jar commons-math-2.1.jar co
+ mmons-math3-3.4.1.jar hadoop-auth-2.2.0.jar jersey-container-servlet-
+ 2.22.2.jar validation-api-1.1.0.Final.jar jersey-media-jaxb-2.22.2.ja
+ r commons-cli-1.2.jar spark-unsafe_2.11-2.1.1.jar chill_2.11-0.8.0.ja
+ r protobuf-java-2.5.0.jar univocity-parsers-2.2.1.jar commons-configu
+ ration-1.6.jar parquet-common-1.8.1.jar avro-ipc-1.7.7.jar hadoop-ann
+ otations-2.2.0.jar commons-io-2.1.jar hadoop-yarn-server-common-2.2.0
+ .jar jackson-databind-2.6.5.jar jersey-common-2.22.2.jar parquet-jack
+ son-1.8.1.jar curator-framework-2.4.0.jar hadoop-mapreduce-client-shu
+ ffle-2.2.0.jar spark-sketch_2.11-2.1.1.jar json4s-core_2.11-3.2.11.ja
+ r pmml-model-1.2.15.jar scala-compiler-2.11.0.jar zookeeper-3.4.5.jar
+  log4j-1.2.17.jar commons-lang3-3.5.jar jsr305-1.3.9.jar spark-networ
+ k-common_2.11-2.1.1.jar kryo-shaded-3.0.3.jar commons-compress-1.4.1.
+ jar commons-beanutils-core-1.8.0.jar jersey-server-2.22.2.jar spire-m
+ acros_2.11-0.7.4.jar spark-catalyst_2.11-2.1.1.jar spark-launcher_2.1
+ 1-2.1.1.jar json4s-ast_2.11-3.2.11.jar antlr4-runtime-4.5.3.jar json4
+ s-jackson_2.11-3.2.11.jar curator-client-2.4.0.jar spark-core_2.11-2.
+ 1.1.jar xz-1.0.jar commons-digester-1.8.jar snappy-java-1.1.2.6.jar j
+ avax.servlet-api-3.1.0.jar hadoop-mapreduce-client-jobclient-2.2.0.ja
+ r xmlenc-0.52.jar pyrolite-4.13.jar compress-lzf-1.0.3.jar ivy-2.4.0.
+ jar core-1.1.2.jar jets3t-0.7.1.jar parquet-column-1.8.1.jar aopallia
+ nce-1.0.jar breeze_2.11-0.12.jar osgi-resource-locator-1.0.1.jar spar
+ k-mllib_2.11-2.1.1.jar javax.annotation-api-1.2.jar spark-sql_2.11-2.
+ 1.1.jar oro-2.0.8.jar scalap-2.11.0.jar jackson-module-paranamer-2.6.
+ 5.jar spark-graphx_2.11-2.1.1.jar commons-pool2-2.4.2.jar hadoop-mapr
+ educe-client-app-2.2.0.jar javax.ws.rs-api-2.0.1.jar objenesis-2.1.ja
+ r stream-2.7.0.jar jackson-module-scala_2.11-2.6.5.jar breeze-macros_
+ 2.11-0.12.jar jetty-util-6.1.26.jar lz4-1.3.0.jar slf4j-log4j12-1.7.1
+ 6.jar janino-3.0.0.jar commons-crypto-1.0.0.jar xbean-asm5-shaded-4.4
+ .jar commons-httpclient-3.1.jar RoaringBitmap-0.5.11.jar jtransforms-
+ 2.4.0.jar hadoop-mapreduce-client-core-2.2.0.jar avro-mapred-1.7.7-ha
+ doop2.jar arpack_combined_all-0.1.jar hadoop-common-2.2.0.jar netty-3
+ .8.0.Final.jar spark-streaming_2.11-2.1.1.jar
+Main-Class: pivotTable
+
